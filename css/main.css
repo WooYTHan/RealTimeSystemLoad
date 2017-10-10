@@ -1,0 +1,38 @@
+body{
+  background-color: #EDEDED;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#gaugeChart{
+  display: inline-block; 
+  width: 30%;
+  height: 100%;
+  margin: 10px;
+  padding: 10px;
+  background-color: rgba(255, 255, 255,0.7);
+  border-radius: 5px;
+}
+#lineChart{
+  display: inline-block; 
+  width: 60%;
+  height: 100%;
+  margin: 10px;
+  padding: 10px;
+  background-color: rgba(255, 255, 255,0.7);
+  border-radius: 5px;
+}
+
+#title {
+  width: 100%;
+  height: 50px;
+  background-color: #84a4d8;
+  border-radius: 5px;
+}
+
+#titleText {
+  font-size: 15px;
+  float: left;
+  padding: 0 0 10px 15px;
+}
+
+
